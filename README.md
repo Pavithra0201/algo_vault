@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0175-combine-two-tables) |
 | [0608-tree-node](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0610-triangle-judgement) |
+| [1877-find-followers-count](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/1877-find-followers-count) |
 ## Linked List
 |  |
 | ------- |
