@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0610-triangle-judgement) |
 | [1877-find-followers-count](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [3910-find-books-with-no-available-copies](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/3910-find-books-with-no-available-copies) |
 ## Linked List
 |  |
 | ------- |
