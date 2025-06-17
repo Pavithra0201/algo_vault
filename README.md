@@ -23,9 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/1833-find-the-highest-altitude) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/1833-find-the-highest-altitude) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
