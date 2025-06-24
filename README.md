@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1833-find-the-highest-altitude](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/1833-find-the-highest-altitude) |
 ## Prefix Sum
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
