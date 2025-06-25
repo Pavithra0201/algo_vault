@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
