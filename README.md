@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0136-single-number) |
 | [0792-binary-search](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0792-binary-search) |
 | [1833-find-the-highest-altitude](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/1833-find-the-highest-altitude) |
 ## Prefix Sum
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
