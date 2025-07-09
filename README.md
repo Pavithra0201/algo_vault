@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0035-search-insert-position) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0226-invert-binary-tree) |
 ## Hash Table
@@ -112,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
