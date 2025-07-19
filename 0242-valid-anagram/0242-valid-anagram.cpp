@@ -10,13 +10,10 @@ public:
             freq[s[i]-'a']++;
             freq[t[i]-'a']--;
         }
-
         for (int f:freq)
         {
-            if (f!=0)
-                return false;
+            if (f!=0)        return false;
         }
-        return true;
-        
+        return true;  
     }
 };
