@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-top-travellers](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/1541-top-travellers) |
 | [1877-find-followers-count](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/2127-employees-whose-manager-left-the-company) |
 | [3910-find-books-with-no-available-copies](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/3910-find-books-with-no-available-copies) |
 ## Linked List
