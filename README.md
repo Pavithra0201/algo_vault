@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0338-counting-bits) |
 ## String
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0338-counting-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Math
 |  |
