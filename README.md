@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0792-binary-search) |
 | [1833-find-the-highest-altitude](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/1833-find-the-highest-altitude) |
 ## Prefix Sum
