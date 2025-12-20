@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0792-binary-search) |
 | [1833-find-the-highest-altitude](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/1833-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
