@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/0792-binary-search) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-find-the-highest-altitude](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/1833-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Pavithra0201/leetcode_sync-25/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
